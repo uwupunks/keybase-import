@@ -1,0 +1,198 @@
+Debug: Calculated 20,037,135,980,640 factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart_lp_shares for unicorn1xrn5rg6gjmw409ry3meklnv84ua09z3a3pl372 from 20,036,991,213,915 factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart (inferred 597,534,594,223 uwunicorn, price ratio 0.029822, sum contributions 62,780,526,162,734)
+Debug: Adjusted unicorn1xrn5rg6gjmw409ry3meklnv84ua09z3a3pl372 for factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart_lp_shares by +1 to correct rounding error
+Info: LP shares match for factory/unicorn167xpap77dtenxsq2lzdgx52ntnce2v4h8f72epdwwrak6jxemsrqprj4xm/upurplephat: 55,609,214,779
+Info: LP shares match for factory/unicorn16x8en3qd0xxeuaddlua7r5ysquz0m9xwp2yc9hfmqygmh0vj0r5sm8nf32/uspx: 9,981,658,370,141
+Info: LP shares match for factory/unicorn175u0d6e96xyqch8jqqgc28u2mqsgp2jmu7hedwftxdlytjxt79xsdsxz7p/uinternet: 30,931,074,061,623
+Info: LP shares match for factory/unicorn18aen8nyuq43ellwwu4u53zl29ppj5acv4zn29whyykmcqa62kjhqguzgxk/umondo: 32,925,354,331,135
+Info: LP shares match for factory/unicorn1f4zd0d76l5cmhrks3ux6vep5qu4s8lrsjlrmz6u33jnwahuj4u6qkp9hkc/usyrupcity: 7,579,403,718,234
+Info: LP shares match for factory/unicorn1jz02y53tmfyrultlahwgy7tv05602qpf7psvma34ul4kl8wzrexqtpsxu0/ugobber: 28,275,952,182,967
+Info: LP shares match for factory/unicorn1k8d05n3mx83am9c853390zctmnlq9sf0f2f5ythed0p6y6vff5fsaqpjxp/ujewnicorn: 22,420,794,404,937
+Info: LP shares match for factory/unicorn1lxmvzkqv8t2palwehetj0ntzh3996ffv5jwyrrz3lxveyqjgxgmsyuvn8w/uknightcore: 47,763,226,393,792
+Info: LP shares match for factory/unicorn1neh6dpnvw0whq4lun9jamysldnap28nllf3hs7akhzpaay2nawns6dv7ma/ufoose: 38,391,493,785,191
+Info: LP shares match for factory/unicorn1ntv9sccx6t90njy0uvarkqyk36ry2qttrd2p0c8eeqk60nr4krssd6wfu8/ukys: 34,316,855,576,995
+Info: LP shares match for factory/unicorn1pawhaxskmdkzvfgevs0dh4lxuctn4x8wt2sqyz95tgem9ne2nrwqjg6rvq/udiamond: 56,064,742,038
+Info: LP shares match for factory/unicorn1q7u6kr50e7ar25ry4vu6u9vegj8gfryaucz7szryke89v2pdpf3szq7n9q/ulawb: 50,356,166,115,909
+Info: LP shares match for factory/unicorn1qgyq8sun340s5wlyyu8356l9k0d22kgh85k243v2mns6v7q3l0qsrp9axs/ucrown: 1,442,567,194
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ualien: 823,068,608,877
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubear: 25,083,560,357,285
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubearhearth: 399,492,036,099
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublackflag: 1,343,249,159,380
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublissful: 9,530,007,776,597
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublowfish: 81,041,755,504
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubrainlet: 10,792,950,597,948,807
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubugjuice: 158,657,939,956,665
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucash: 1,811,136,591,433
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucat: 7,833,447,513,142
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchains: 10,644,944,074,593
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchick: 1,413,705,117
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchina: 53,947,615,528,170
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uclown: 61,883,325,384
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucorn: 6,515,141,735,877
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucrystalball: 2,090,839,952,475
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udiamond: 5,406,655
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udice: 3,758,947,820,790
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udog: 163,811,189,086
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udogwifgun: 374,477,399,511,496
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ueggplant: 46,716,769,198,977
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ueightball: 165,295,305,256
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uenvelop: 59,684,101,239
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ufahrenheit: 1,118,439,772,097,468
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ufrog: 333,713,920,067,084
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugirl: 12,976,000,764,284
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugun: 49,627,369,917,860
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uhammer: 191,621,437,787
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uharambe: 1,606,126,469,203
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ujeet: 1,494,061,657,970,987
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umeat: 12,482,585,792,832
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umog: 28,007,054,225,718,481
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umoon: 351,971,985
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uorwell: 116,088,976,743
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upaper: 347,786,926
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upeace: 48,637,781,132,080
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upeach: 396,724,115,238
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upi: 22,709,415,796,394
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uplaceholder: 15,514,740,113,005
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upoo: 125,152,135,778,380
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upretzel: 6,901,979,211,467
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upurplepill: 89,131,199,803
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uretard: 43,675,757,909,222
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/urock: 3,416,813,701
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/urocket: 831,774,535,943,526
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usa: 24,885,083,627,328
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uscisors: 2,829,077,725
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ushot: 48,146,333,314,119
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ushrimp: 656,760,960,224
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uskull: 4,761,962,517,073
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usparkle: 11,842,826,392,726
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usushi: 8,795,970,205,368
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utaco: 21,664,500,251,193
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utaiwan: 6,515,595,515,924
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utang: 332,679,378,280
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utest: 43,846,774,452,930
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwatermelon: 69,077,018,022,806
+Info: LP shares match for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwuxd: 5,456,429,673,412
+Info: LP shares match for factory/unicorn1t50hzs797uecgy8wj3k9lnsktsehttxw7jwdde9rtst4q2xp9fhsvspmxd/uvril: 72,962,016,018,286
+Info: LP shares match for factory/unicorn1t9j6dnlqq5vk4ks0dtlt6rgn9ytp6fxweht708958dz4h7sqvrkq4gqw4w/upurplephat: 90,527,171,127
+Info: LP shares match for factory/unicorn1tu42zfawk5ztzqrn7uva4kcenjgzda9e977y9rwce7ygz8265mtqdu38ww/upurpdildo: 28,190,956,510
+Info: LP shares match for factory/unicorn1tvmvcfqqvdeffurxafzlwl90f7chj9zsksalsrk6yqy2708eex9q0p2745/ulain: 9,684,313,256,970
+Info: LP shares match for factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart: 62,780,979,750,356
+Info: LP shares match for factory/unicorn1y3pugq3g467v6hhlysedeqs2lkrlql7vhejp9eydk0xr8y5xwqas79rc7p/uucoconutdoggy: 1,289,531,195,850,108
+Info: Total supply valid for factory/unicorn167xpap77dtenxsq2lzdgx52ntnce2v4h8f72epdwwrak6jxemsrqprj4xm/upurplephat: 996,199,132 (maximum 1,000,000,000)
+Info: Total supply valid for factory/unicorn16x8en3qd0xxeuaddlua7r5ysquz0m9xwp2yc9hfmqygmh0vj0r5sm8nf32/uspx: 59,640,573,892,811 (maximum 69,000,000,000,000)
+Warning: Total supply exceeds maximum for factory/unicorn175u0d6e96xyqch8jqqgc28u2mqsgp2jmu7hedwftxdlytjxt79xsdsxz7p/uinternet:
+         Maximum supply (supply.csv): 1,000,000,000,000,000
+         Total supply: 1,173,189,972,401,199
+         Overage: 173,189,972,401,199 (17.32%)
+         Address balances: 977,265,184,268,390 (83.30%)
+         Pool balances: 195,924,788,132,809 (16.70%)
+         Note: Pool balances included in total supply.
+         Per-address balances:
+           unicorn1r5geqcquxd86snuzxgpgxqq8es540h5fvkcr8q:  78,597,677,725 (0.01% of address total)
+           unicorn1ra0c2lpr69dswrv9j6dqvf22k0ykpx5z8u059s: 2,836,682,385,061 (0.29% of address total)
+           unicorn1ypnqm7zufndxd6zd42r2gwxhxqgf9ld3ansr48: 1,332,226,376,570 (0.14% of address total)
+           unicorn19qy47mne0xa6dtnk9kj9c384wf5s5s5znj4u58: 180,352,810,234,301 (18.45% of address total)
+           unicorn1x7vuyquf07nkwt3rwuejdwtn5m0xxvykmdhmqk: 700,000,000,000 (0.07% of address total)
+           unicorn1g458r49rcu35td33e0ygtx4xna6xjhdvkxq57v: 16,120,859,391,911 (1.65% of address total)
+           unicorn1f4kpmgz409tkqeap2yh23mmp0cjnzwhygq2npl: 3,593,097,588,179 (0.37% of address total)
+           unicorn1tp57ftsyx4yhmv86y3veym3x9wcrwy0mt79j57: 10,235,460,216,927 (1.05% of address total)
+           unicorn1tklvzdxtdwvmrg0gexhfuuyjpduu64lfmdp7nn: 1,000,000,000,000 (0.10% of address total)
+           unicorn1vkjds0kmxqrhcsy2f77r2v8kaywwtdn5a0kcaj:   6,109,006,026 (0.00% of address total)
+           unicorn1w8u7qrdc3jcvwpcxmdhr8au45teda75wzf7ywv: 7,144,077,626,598 (0.73% of address total)
+           unicorn1wme5p4gskpfnyqz2432efrzyj3dx39ptg0a5s4: 3,007,011,107,714 (0.31% of address total)
+           unicorn1054m3v0mdekpw4f6xpsqahyvuv59upvlwsqqac:  34,375,897,115 (0.00% of address total)
+           unicorn1sykjack7e9s0hc494anyt4fu4xpkjs2l2y52v5: 48,920,857,603,400 (5.01% of address total)
+           unicorn1sfsym203zwjnjsg8gfyl0wyzks2g5u0254y94q: 2,000,000,000,000 (0.20% of address total)
+           unicorn1jx48d3cuas2q646e7yn2zqxzye8uelew087rw3: 29,999,999,000,000 (3.07% of address total)
+           unicorn1jhdy7n9psh32xgkrfeg9sruvuaq5w8u2rg4m76: 1,500,000,000,000 (0.15% of address total)
+           unicorn1je3efw80lhznyaecjkpmgxlz52xn9002mdfrfl: 5,945,324,891,093 (0.61% of address total)
+           unicorn14gtrakcayywex7vanrs5yestdqt84ry5pg9gqf: 6,460,418,921,586 (0.66% of address total)
+           unicorn1hhqgdwtk3x0ytw7zcwak5ufa9nrhfazqtrd0gu:      70,681,214 (0.00% of address total)
+           unicorn1mzcr28te0xgqag43rjl6nk4tudmxns46wx6t8w: 1,598,671,651,920 (0.16% of address total)
+           unicorn1apzerg4xfrw5qh758ajpaez5sm9a969gj0amq0: 2,664,452,753,201 (0.27% of address total)
+           unicorn1a050kcew7ehjttncjxx88aj2amavqkldxgee2p: 100,040,603,039,970 (10.24% of address total)
+           unicorn1a7kuun03t5fd99a8n4scp4uwsag6cucjtj4hnp: 514,160,316,511,166 (52.61% of address total)
+           unicorn17zpvqhexlu70a7ysslvutqcqw950ymvtkrz8l2: 500,000,000,000 (0.05% of address total)
+           unicorn17fvajt8d4yva9hht2dcynn0wzn0glxlmas6pp2: 28,934,600,486,036 (2.96% of address total)
+           unicorn17d8symfx78h2ha5larhdrr4w5xv0tlamrgtnqm: 228,749,327,298 (0.02% of address total)
+           unicorn17an85ne29ajdshlg54refs8fh0xzd6trzenhd9: 1,080,585,034,158 (0.11% of address total)
+           unicorn1lh6ruf253fhjykdesvfccy0y0vhjque4w4z4aw: 6,789,226,859,221 (0.69% of address total)
+         Pool contribution for factory/unicorn175u0d6e96xyqch8jqqgc28u2mqsgp2jmu7hedwftxdlytjxt79xsdsxz7p/uinternet: 195,924,788,132,809
+Info: Total supply valid for factory/unicorn18aen8nyuq43ellwwu4u53zl29ppj5acv4zn29whyykmcqa62kjhqguzgxk/umondo: 984,728,867,102,235 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1f4zd0d76l5cmhrks3ux6vep5qu4s8lrsjlrmz6u33jnwahuj4u6qkp9hkc/usyrupcity: 41,856,602,409,774 (maximum 42,069,000,000,000)
+Info: Total supply valid for factory/unicorn1jz02y53tmfyrultlahwgy7tv05602qpf7psvma34ul4kl8wzrexqtpsxu0/ugobber: 998,686,180,263,861 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1k8d05n3mx83am9c853390zctmnlq9sf0f2f5ythed0p6y6vff5fsaqpjxp/ujewnicorn: 564,837,625,246,395 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1lxmvzkqv8t2palwehetj0ntzh3996ffv5jwyrrz3lxveyqjgxgmsyuvn8w/uknightcore: 922,657,945,435,067 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1neh6dpnvw0whq4lun9jamysldnap28nllf3hs7akhzpaay2nawns6dv7ma/ufoose: 999,808,406,303,912 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1ntv9sccx6t90njy0uvarkqyk36ry2qttrd2p0c8eeqk60nr4krssd6wfu8/ukys: 981,685,385,506,318 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1pawhaxskmdkzvfgevs0dh4lxuctn4x8wt2sqyz95tgem9ne2nrwqjg6rvq/udiamond: 992,891,169 (maximum 1,000,000,000)
+Info: Total supply valid for factory/unicorn1q7u6kr50e7ar25ry4vu6u9vegj8gfryaucz7szryke89v2pdpf3szq7n9q/ulawb: 991,478,841,379,995 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1qgyq8sun340s5wlyyu8356l9k0d22kgh85k243v2mns6v7q3l0qsrp9axs/ucrown: 997,314 (maximum 1,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ualien: 507,458,071,109 (maximum 510,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubear: 398,590,894,725,243 (maximum 400,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubearhearth: 99,550,312,383 (maximum 100,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublackflag: 68,969,098,559,346,457 (maximum 69,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublissful: 59,830,921,555,370 (maximum 60,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublowfish: 209,974,218,345,621 (maximum 210,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubrainlet: 54,877,469,910,548,547,415 (maximum 55,085,999,999,982,604,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ubugjuice: 8,471,498,566,790,312 (maximum 8,525,352,329,742,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucash: 2,329,003,790,555,095,971 (maximum 2,330,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucat: 389,776,556,128,736,787 (maximum 390,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchains: 99,401,302,279,895 (maximum 100,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchick: 9,998,718,235,549 (maximum 10,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchina: 1,404,248,544,809,368 (maximum 1,412,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uclown: 419,926,072,259,258 (maximum 420,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucorn: 20,877,928,532,637 (maximum 21,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucrystalball: 99,981,566,391,311,212 (maximum 100,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udiamond: 999,311,898 (maximum 1,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udice: 7,720,635,793,238 (maximum 7,777,777,777,777)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udog: 999,733,744,040,608 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udogwifgun: 76,778,357,334,061,225 (maximum 77,088,999,999,499,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ueggplant: 995,062,148,924,764 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ueightball: 888,691,268,271,141 (maximum 888,888,888,888,888)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uenvelop: 777,677,591,805,652 (maximum 777,777,777,777,777)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ufahrenheit: 448,065,762,299,935,773 (maximum 451,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ufrog: 68,739,244,282,779,842 (maximum 69,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugirl: 999,095,200,837,280 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ugun: 1,330,509,220,215,325 (maximum 1,337,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uhammer: 168,424,975,663 (maximum 168,554,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uharambe: 28,036,911,651,601 (maximum 28,052,016,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ujeet: 647,597,804,754,551,018 (maximum 650,459,156,998,150,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umeat: 99,445,028,267,801 (maximum 100,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umog: 419,276,505,618,432,221,968 (maximum 420,690,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umoon: 384,294,213,589 (maximum 384,400,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uorwell: 1,983,753,764,489,907 (maximum 1,984,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upaper: 999,892,483,988 (maximum 1,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upeace: 994,935,150,091,368 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upeach: 79,574,389,666 (maximum 80,085,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upi: 312,377,346,123,848 (maximum 314,159,265,358,979)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uplaceholder: 99,230,674,657,314 (maximum 100,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upoo: 6,954,090,327,352,530 (maximum 7,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upretzel: 29,810,331,797,257 (maximum 30,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upurplepill: 148,991,507,338 (maximum 150,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uretard: 996,265,969,070,465 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/urock: 999,804,724,961 (maximum 1,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/urocket: 418,623,773,260,110,296 (maximum 420,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usa: 331,340,721,387,476 (maximum 333,333,333,333,333)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uscisors: 999,860,892,535 (maximum 1,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ushot: 992,807,528,761,409 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ushrimp: 209,976,518,772,780,366 (maximum 210,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uskull: 9,948,403,380,113 (maximum 10,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usparkle: 999,536,769,648,664 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/usushi: 49,734,743,396,458 (maximum 50,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utaco: 298,408,044,113,188 (maximum 300,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utaiwan: 23,416,607,248,365 (maximum 23,570,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utang: 419,772,174,801 (maximum 420,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/utest: 993,384,285,986,443 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwatermelon: 2,987,685,406,203,775 (maximum 3,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uwuxd: 999,827,763,331,774 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1t50hzs797uecgy8wj3k9lnsktsehttxw7jwdde9rtst4q2xp9fhsvspmxd/uvril: 941,361,508,684,227 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1t9j6dnlqq5vk4ks0dtlt6rgn9ytp6fxweht708958dz4h7sqvrkq4gqw4w/upurplephat: 1,965,634,224 (maximum 2,002,000,000)
+Info: Total supply valid for factory/unicorn1tu42zfawk5ztzqrn7uva4kcenjgzda9e977y9rwce7ygz8265mtqdu38ww/upurpdildo: 999,723,917 (maximum 1,000,000,000)
+Info: Total supply valid for factory/unicorn1tvmvcfqqvdeffurxafzlwl90f7chj9zsksalsrk6yqy2708eex9q0p2745/ulain: 62,531,502,580,425 (maximum 69,000,000,000,000)
+Info: Total supply valid for factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart: 990,489,727,812,403 (maximum 1,000,000,000,000,000)
+Info: Total supply valid for factory/unicorn1y3pugq3g467v6hhlysedeqs2lkrlql7vhejp9eydk0xr8y5xwqas79rc7p/uucoconutdoggy: 298,449,108,825,739,768 (maximum 316,040,021,801,000,000)
+Info: Total supply valid for uwunicorn: 68,422,397,369,844,031 (maximum 69,000,000,000,000,000)
+Debug: Balances for unicorn1xrn5rg6gjmw409ry3meklnv84ua09z3a3pl372:
+  Regular tokens: ['factory/unicorn1f4zd0d76l5cmhrks3ux6vep5qu4s8lrsjlrmz6u33jnwahuj4u6qkp9hkc/usyrupcity', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublackflag', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ublowfish', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucash', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uchick', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uclown', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ucrystalball', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udiamond', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/udog', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ueightball', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uenvelop', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/umoon', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uorwell', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upaper', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/upi', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/urock', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/uscisors', 'factory/unicorn1rn9f6ack3u8t3ed04pfaqpmh5zfp2m2ll4mkty/ushrimp', 'factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart', 'uwunicorn']
+  LP shares: ['factory/unicorn1v83z5jq6vdy3zqanps77p2c9f8ccly8dzv5ra5yar4up0ydt6rfs55m9zs/uheart_lp_shares']
+Genesis file generated: genesis.json
